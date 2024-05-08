@@ -3,7 +3,6 @@
 }
 
 .img-cover {
-    background-image: url('img/fundo.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
